@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77d6950d-9f25-448e-a5a5-f6669943f3fa": {
+      "ProjectGuid": "77d6950d-9f25-448e-a5a5-f6669943f3fa",
+      "DisplayName": "practice",
+      "ColorIndex": 0
+    },
+    "5ea6f197-9db8-4342-85e2-476ca00e39f2": {
+      "ProjectGuid": "5ea6f197-9db8-4342-85e2-476ca00e39f2",
+      "DisplayName": "practice.Android",
+      "ColorIndex": 1
+    },
+    "3cc718d7-2ab3-43b8-b9cf-1b0d2cf6e59d": {
+      "ProjectGuid": "3cc718d7-2ab3-43b8-b9cf-1b0d2cf6e59d",
+      "DisplayName": "practice.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

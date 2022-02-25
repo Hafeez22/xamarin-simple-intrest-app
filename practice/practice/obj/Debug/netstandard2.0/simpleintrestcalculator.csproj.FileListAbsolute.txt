@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\practice\practice\practice\bin\Debug\netstandard2.0\simpleintrestcalculator.deps.json
+C:\Users\Lenovo\source\repos\practice\practice\practice\bin\Debug\netstandard2.0\simpleintrestcalculator.dll
+C:\Users\Lenovo\source\repos\practice\practice\practice\bin\Debug\netstandard2.0\simpleintrestcalculator.pdb
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.dll
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\refint\simpleintrestcalculator.dll
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\simpleintrestcalculator.pdb
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\ref\simpleintrestcalculator.dll

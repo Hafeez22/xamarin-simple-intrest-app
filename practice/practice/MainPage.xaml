@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
+             x:Class="practice.MainPage">
+    <ContentPage.Content>
+    <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="CadetBlue"  >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+            
+            <Label Text="Intrest Calculator" Grid.Row="0" Grid.ColumnSpan="2" VerticalOptions="Center" HorizontalOptions="Center" FontSize="Title"    
+                     ></Label>
+            <Frame Grid.Row="1" CornerRadius="20" Grid.ColumnSpan="2" WidthRequest="230" VerticalOptions="Center" HorizontalOptions="Center" >
+                <Entry x:Name="principle" Grid.Row="1" Grid.ColumnSpan="2" WidthRequest="200" Keyboard="Numeric" TextColor="Black" 
+                       VerticalTextAlignment="Center" HorizontalTextAlignment="Center" 
+                       Placeholder="Principle Amount" PlaceholderColor="Black"
+                       HorizontalOptions="Center"  />
+            </Frame>
+            <Frame Grid.Row="2" CornerRadius="20" Grid.ColumnSpan="2" WidthRequest="230" VerticalOptions="Center" HorizontalOptions="Center"  >
+                <Entry x:Name="Months" Grid.Row="2" Keyboard="Numeric" WidthRequest="200" TextColor="Black" Grid.ColumnSpan="2" 
+                       VerticalTextAlignment="Center" HorizontalTextAlignment="Center" 
+                       Placeholder="No Of Months" PlaceholderColor="Black"
+                       VerticalOptions="Center" HorizontalOptions="Center" />
+            </Frame>
+            <Frame Grid.Row="3" CornerRadius="20" Grid.ColumnSpan="2" WidthRequest="230" VerticalOptions="Center" HorizontalOptions="Center" HasShadow="True"  >
+                <Entry x:Name="intrest" Grid.Row="3" WidthRequest="200" HeightRequest="100" Keyboard="Numeric" TextColor="Black" Grid.ColumnSpan="2" 
+                       VerticalTextAlignment="Center" HorizontalTextAlignment="Center" 
+                       Placeholder="Intrest" PlaceholderColor="Black"
+                       VerticalOptions="Center" HorizontalOptions="Center" />
+            </Frame>
+            <Frame Grid.Row="4" CornerRadius="20" Grid.ColumnSpan="2" WidthRequest="230" VerticalOptions="Center" HorizontalOptions="Center" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*" />
+                        
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.ColumnSpan="2" Text="Total Amount" FontSize="15" VerticalOptions="Center" HorizontalOptions="Center" />
+                    <Label Grid.Row="1" x:Name="lbltotal" Grid.ColumnSpan="2" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" 
+                           FontSize="Medium" TextColor="Black"  />
+                </Grid>
+            </Frame>
+            <Button Text="Calculate" Grid.Row="5" Grid.ColumnSpan="2" Clicked="Button_Clicked_Calculate" CornerRadius="50" 
+                    BackgroundColor="BlanchedAlmond" WidthRequest="150" HeightRequest="50" VerticalOptions="Center"  HorizontalOptions="Center" />
+            
+    </Grid>
+    </ContentPage.Content>
+</ContentPage>

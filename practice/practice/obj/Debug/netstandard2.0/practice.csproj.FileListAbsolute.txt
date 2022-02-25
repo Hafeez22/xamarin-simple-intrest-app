@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\practice\practice\practice\bin\Debug\netstandard2.0\practice.deps.json
+C:\Users\Lenovo\source\repos\practice\practice\practice\bin\Debug\netstandard2.0\practice.dll
+C:\Users\Lenovo\source\repos\practice\practice\practice\bin\Debug\netstandard2.0\practice.pdb
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.dll
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\ref\practice.dll
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\practice.pdb
+C:\Users\Lenovo\source\repos\practice\practice\practice\obj\Debug\netstandard2.0\refint\practice.dll
